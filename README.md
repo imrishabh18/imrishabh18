@@ -1,18 +1,19 @@
-### Hi there 👋
+<h2> Hi, I'm Rishabh! 👋</h2>
 
-![counter](https://endq6yktwdx2mox.m.pipedream.net)
+<p><em>Full Stack Developer at <a href="https://perfexia.health/our-team">Perfexia Health Technologies</a></br>Majoring Information Science at <a href="https://bit-bangalore.edu.in/">BIT</a>
+</em></p>
 
-<!--
-**imrishabh18/imrishabh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: im_rishabh18](https://img.shields.io/twitter/follow/im_rishabh18?style=social)](https://twitter.com/im_rishabh18)
+[![GitHub imrishabh18](https://img.shields.io/github/followers/imrishabh18?label=follow&style=social)](https://github.com/imrishabh18)
+![](https://komarev.com/ghpvc/?username=imrishabh18&color=orange)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const rishabhGupta = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, C++],
+  tools: [React, Redux, Node, AWS, Styled-Components, Docker],
+}
+```
