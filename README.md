@@ -1,6 +1,6 @@
 <h2> Hi, I'm Rishabh! 👋</h2>
 
-<p><em>Software Engineer at <a href="https://docme.ai/our-team">DocMe</a></br>Majoring Information Science at <a href="https://bit-bangalore.edu.in/">BIT</a>
+<p><em>Currently Freelancing <br/>Majoring Information Science at <a href="https://bit-bangalore.edu.in/">BIT</a>
 </em></p>
 
 [![Twitter: im_rishabh18](https://img.shields.io/twitter/follow/im_rishabh18?style=social)](https://twitter.com/im_rishabh18)
