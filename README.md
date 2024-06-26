@@ -10,7 +10,6 @@
 ```javascript
 const rishabhGupta = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, C++],
-  tools: [React, Redux, Node, AWS, Styled-Components, Docker],
+  code: [Javascript, Typescript, Java],
 }
 ```
